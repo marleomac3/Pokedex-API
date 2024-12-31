@@ -1,0 +1,365 @@
+[
+        {
+          "id": 1,
+          "name": [
+            "Bulbasaur",
+            "Fushigidane"
+          ],
+          "height": 0.7,
+          "weight": 6.9,
+          "generation": 1,
+          "species": "Seed Pokémon",
+          "type": [
+            "Grass",
+            "Poison"
+          ]
+        },
+        {
+          "id": 2,
+          "name": [
+            "Ivysaur",
+            "Fushigisou"
+          ],
+          "height": 1.0,
+          "weight": 13.0,
+          "generation": 1,
+          "species": "Seed Pokémon",
+          "type": [
+            "Grass",
+            "Poison"
+          ]
+        },
+        {
+          "id": 3,
+          "name": [
+            "Venusaur",
+            "Fushigibana"
+          ],
+          "height": 2.0,
+          "weight": 100.0,
+          "generation": 1,
+          "species": "Seed Pokémon",
+          "type": [
+            "Grass",
+            "Poison"
+          ]
+        },
+        {
+          "id": 4,
+          "name": [
+            "Charmander",
+            "Hitokage"
+          ],
+          "height": 0.6,
+          "weight": 8.5,
+          "generation": 1,
+          "species": "Lizard Pokémon",
+          "type": [
+            "Fire"
+          ]
+        },
+        {
+          "id": 5,
+          "name": [
+            "Charmeleon",
+            "Lizardo"
+          ],
+          "height": 1.1,
+          "weight": 19.0,
+          "generation": 1,
+          "species": "Flame Pokémon",
+          "type": [
+            "Fire"
+          ]
+        },
+        {
+          "id": 6,
+          "name": [
+            "Charizard",
+            "Lizardon"
+          ],
+          "height": 1.7,
+          "weight": 90.5,
+          "generation": 1,
+          "species": "Flame Pokémon",
+          "type": [
+            "Fire",
+            "Flying"
+          ]
+        },
+        {
+          "id": 7,
+          "name": [
+            "Squirtle",
+            "Zenigame"
+          ],
+          "height": 0.5,
+          "weight": 9.0,
+          "generation": 1,
+          "species": "Tiny Turtle Pokémon",
+          "type": [
+            "Water"
+          ]
+        },
+        {
+          "id": 8,
+          "name": [
+            "Wartortle",
+            "Kameil"
+          ],
+          "height": 1.0,
+          "weight": 22.5,
+          "generation": 1,
+          "species": "Turtle Pokémon",
+          "type": [
+            "Water"
+          ]
+        },
+        {
+          "id": 9,
+          "name": [
+            "Blastoise",
+            "Kamex"
+          ],
+          "height": 1.6,
+          "weight": 85.5,
+          "generation": 1,
+          "species": "Shellfish Pokémon",
+          "type": [
+            "Water"
+          ]
+        },
+        {
+          "id": 10,
+          "name": [
+            "Caterpie",
+            "Caterpie"
+          ],
+          "height": 0.3,
+          "weight": 2.9,
+          "generation": 1,
+          "species": "Worm Pokémon",
+          "type": [
+            "Bug"
+          ]
+        },
+        {
+          "id": 11,
+          "name": [
+            "Metapod",
+            "Transel"
+          ],
+          "height": 0.7,
+          "weight": 9.9,
+          "generation": 1,
+          "species": "Cocoon Pokémon",
+          "type": [
+            "Bug"
+          ]
+        },
+        {
+          "id": 12,
+          "name": [
+            "Butterfree",
+            "Butterfree"
+          ],
+          "height": 1.1,
+          "weight": 32.0,
+          "generation": 1,
+          "species": "Butterfly Pokémon",
+          "type": [
+            "Bug",
+            "Flying"
+          ]
+        },
+        {
+          "id": 13,
+          "name": [
+            "Weedle",
+            "Beedle"
+          ],
+          "height": 0.3,
+          "weight": 3.2,
+          "generation": 1,
+          "species": "Hairy Caterpillar Pokémon",
+          "type": [
+            "Bug",
+            "Poison"
+          ]
+        },
+        {
+          "id": 14,
+          "name": [
+            "Kakuna",
+            "Cocoon"
+          ],
+          "height": 0.6,
+          "weight": 10.0,
+          "generation": 1,
+          "species": "Cocoon Pokémon",
+          "type": [
+            "Bug",
+            "Poison"
+          ]
+        },
+        {
+          "id": 15,
+          "name": [
+            "Beedrill",
+            "Beedrill"
+          ],
+          "height": 1.0,
+          "weight": 29.5,
+          "generation": 1,
+          "species": "Poison Bee Pokémon",
+          "type": [
+            "Bug",
+            "Poison"
+          ]
+        },
+        {
+          "id": 16,
+          "name": [
+            "Pidgey",
+            "Pigeon"
+          ],
+          "height": 0.3,
+          "weight": 1.8,
+          "generation": 1,
+          "species": "Tiny Bird Pokémon",
+          "type": [
+            "Normal",
+            "Flying"
+          ]
+        },
+        {
+          "id": 17,
+          "name": [
+            "Pidgeotto",
+            "Pidgeotto"
+          ],
+          "height": 1.1,
+          "weight": 30.0,
+          "generation": 1,
+          "species": "Bird Pokémon",
+          "type": [
+            "Normal",
+            "Flying"
+          ]
+        },
+        {
+          "id": 18,
+          "name": [
+            "Pidgeot",
+            "Pidgeot"
+          ],
+          "height": 1.5,
+          "weight": 39.5,
+          "generation": 1,
+          "species": "Bird Pokémon",
+          "type": [
+            "Normal",
+            "Flying"
+          ]
+        },
+        {
+          "id": 19,
+          "name": [
+            "Rattata",
+            "Koratta"
+          ],
+          "height": 0.3,
+          "weight": 3.5,
+          "generation": 1,
+          "species": "Mouse Pokémon",
+          "type": [
+            "Normal"
+          ]
+        },
+        {
+          "id": 20,
+          "name": [
+            "Raticate",
+            "Rattata"
+          ],
+          "height": 0.7,
+          "weight": 18.5,
+          "generation": 1,
+          "species": "Mouse Pokémon",
+          "type": [
+            "Normal"
+          ]
+        },
+        {
+          "id": 21,
+          "name": [
+            "Spearow",
+            "Onibishi"
+          ],
+          "height": 0.3,
+          "weight": 2.0,
+          "generation": 1,
+          "species": "Tiny Bird Pokémon",
+          "type": [
+            "Normal",
+            "Flying"
+          ]
+        },
+        {
+          "id": 22,
+          "name": [
+            "Fearow",
+            "Onidrill"
+          ],
+          "height": 1.2,
+          "weight": 38.0,
+          "generation": 1,
+          "species": "Beak Pokémon",
+          "type": [
+            "Normal",
+            "Flying"
+          ]
+        },
+        {
+          "id": 23,
+          "name": [
+            "Ekans",
+            "Abo"
+          ],
+          "height": 2.0,
+          "weight": 6.9,
+          "generation": 1,
+          "species": "Snake Pokémon",
+          "type": [
+            "Poison"
+          ]
+        },
+        {
+          "id": 24,
+          "name": [
+            "Arbok",
+            "Arbok"
+          ],
+          "height": 3.5,
+          "weight": 65.0,
+          "generation": 1,
+          "species": "Cobra Pokémon",
+          "type": [
+            "Poison"
+          ]
+        },
+        {
+          "id": 25,
+          "name": [
+            "Pikachu",
+            "Pikachu"
+          ],
+          "height": 0.4,
+          "weight": 6.0,
+          "generation": 1,
+          "species": "Mouse Pokémon",
+          "type": [
+            "Electric"
+          ]
+        }
+]
