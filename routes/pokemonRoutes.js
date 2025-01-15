@@ -32,7 +32,10 @@ module.exports = (pokemonData) => {
     router.post('/', (req, res) => { // Defines a route handler for POST requests to the '/pokemon' endpoint
         const newPokemon = req.body; // Gets the Pokémon data from the request body
         pokemonData.push(newPokemon); // Adds the new Pokémon to the pokemonData array
-        res.status(201).json(newPokemon); // Sends the new Pokémon as a JSON response
+        res.status(201).json({ // Responds with a 201 status code, a success message, and the new Pokémon
+            message: 'Pokémon created successfully',
+            pokemon: newPokemon
+        });
     });
 
     return router;
