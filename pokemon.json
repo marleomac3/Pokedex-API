@@ -724,5 +724,727 @@
     "type": [
       "Ground"
     ]
+  },
+  {
+    "id": "0051",
+    "names": {
+      "english": "Dugtrio",
+      "japanese": "Dagutorio (ダグトリオ)"
+    },
+    "height": 0.7,
+    "weight": 33.3,
+    "generation": 1,
+    "species": "Mole Pokémon",
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": "0052",
+    "names": {
+      "english": "Meowth",
+      "japanese": "Nyāsu (ニャース)"
+    },
+    "height": 0.4,
+    "weight": 4.2,
+    "generation": 1,
+    "species": "Scratch Cat Pokémon",
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": "0053",
+    "names": {
+      "english": "Persian",
+      "japanese": "Perushian (ペルシアン)"
+    },
+    "height": 1,
+    "weight": 32.0,
+    "generation": 1,
+    "species": "Classy Cat Pokémon",
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": "0054",
+    "names": {
+      "english": "Psyduck",
+      "japanese": "Kodakku (コダック)"
+    },
+    "height": 0.8,
+    "weight": 19.6,
+    "generation": 1,
+    "species": "Duck Pokémon",
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": "0055",
+    "names": {
+      "english": "Golduck",
+      "japanese": "Gorudakku (ゴルダック)"
+    },
+    "height": 1.7,
+    "weight": 76.6,
+    "generation": 1,
+    "species": "Duck Pokémon",
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": "0056",
+    "names": {
+      "english": "Mankey",
+      "japanese": "Mankī (マンキー)"
+    },
+    "height": 0.5,
+    "weight": 28.0,
+    "generation": 1,
+    "species": "Pig Monkey Pokémon",
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": "0057",
+    "names": {
+      "english": "Primeape",
+      "japanese": "Okorizaru (オコリザル)"
+    },
+    "height": 1,
+    "weight": 32.0,
+    "generation": 1,
+    "species": "Pig Monkey Pokémon",
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": "0058",
+    "names": {
+      "english": "Growlithe",
+      "japanese": "Gardie (ガーディ)"
+    },
+    "height": 0.7,
+    "weight": 19.0,
+    "generation": 1,
+    "species": "Puppy Pokémon",
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": "0059",
+    "names": {
+      "english": "Arcanine",
+      "japanese": "Windie (ウインディ)"
+    },
+    "height": 1.9,
+    "weight": 155.0,
+    "generation": 1,
+    "species": "Legendary Pokémon",
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": "0060",
+    "names": {
+      "english": "Poliwag",
+      "japanese": "Nyoromo (ニョロモ)"
+    },
+    "height": 0.6,
+    "weight": 12.4,
+    "generation": 1,
+    "species": "Tadpole Pokémon",
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": "0061",
+    "names": {
+      "english": "Poliwhirl",
+      "japanese": "Nyorozo (ニョロゾ)"
+    },
+    "height": 1,
+    "weight": 20.0,
+    "generation": 1,
+    "species": "Tadpole Pokémon",
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": "0062",
+    "names": {
+      "english": "Poliwrath",
+      "japanese": "Nyorobon (ニョロボン)"
+    },
+    "height": 1.4,
+    "weight": 54.0,
+    "generation": 1,
+    "species": "Tadpole Pokémon",
+    "type": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "id": "0063",
+    "names": {
+      "english": "Abra",
+      "japanese": "Casey (ケーシィ)"
+    },
+    "height": 0.9,
+    "weight": 19.5,
+    "generation": 1,
+    "species": "Psi Pokémon",
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": "0064",
+    "names": {
+      "english": "Kadabra",
+      "japanese": "Yungerā (ユンゲラー)"
+    },
+    "height": 1.3,
+    "weight": 56.5,
+    "generation": 1,
+    "species": "Psi Pokémon",
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": "0065",
+    "names": {
+      "english": "Alakazam",
+      "japanese": "Foodin (フーディン)"
+    },
+    "height": 1.5,
+    "weight": 48.0,
+    "generation": 1,
+    "species": "Psi Pokémon",
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": "0066",
+    "names": {
+      "english": "Machop",
+      "japanese": "Wanrikī (ワンリキー)"
+    },
+    "height": 0.8,
+    "weight": 19.5,
+    "generation": 1,
+    "species": "Superpower Pokémon",
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": "0067",
+    "names": {
+      "english": "Machoke",
+      "japanese": "Gorikī (ゴーリキー)"
+    },
+    "height": 1.5,
+    "weight": 70.0,
+    "generation": 1,
+    "species": "Superpower Pokémon",
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": "0068",
+    "names": {
+      "english": "Machamp",
+      "japanese": "Kairikī (カイリキー)"
+    },
+    "height": 1.6,
+    "weight": 130.0,
+    "generation": 1,
+    "species": "Superpower Pokémon",
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": "0069",
+    "names": {
+      "english": "Bellsprout",
+      "japanese": "Madatsubomi (マダツボミ)"
+    },
+    "height": 0.7,
+    "weight": 4.0,
+    "generation": 1,
+    "species": "Flower Pokémon",
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": "0070",
+    "names": {
+      "english": "Weepinbell",
+      "japanese": "Utsudon (ウツドン)"
+    },
+    "height": 1.0,
+    "weight": 6.4,
+    "generation": 1,
+    "species": "Flycatcher Pokémon",
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": "0071",
+    "names": {
+      "english": "Victreebel",
+      "japanese": "Utsubot (ウツボット)"
+    },
+    "height": 1.7,
+    "weight": 15.5,
+    "generation": 1,
+    "species": "Flycatcher Pokémon",
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": "0072",
+    "names": {
+      "english": "Tentacool",
+      "japanese": "Menokurage (メノクラゲ)"
+    },
+    "height": 0.9,
+    "weight": 45.5,
+    "generation": 1,
+    "species": "Jellyfish Pokémon",
+    "type": [
+      "Water",
+      "Poison"
+    ]
+  },
+  {
+    "id": "0073",
+    "names": {
+      "english": "Tentacruel",
+      "japanese": "Dokukurage (ドククラゲ)"
+    },
+    "height": 1.6,
+    "weight": 55.0,
+    "generation": 1,
+    "species": "Jellyfish Pokémon",
+    "type": [
+      "Water",
+      "Poison"
+    ]
+  },
+  {
+    "id": "0074",
+    "names": {
+      "english": "Geodude",
+      "japanese": "Ishitsubute (イシツブテ)"
+    },
+    "height": 0.4,
+    "weight": 20.0,
+    "generation": 1,
+    "species": "Rock Pokémon",
+    "type": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "id": "0075",
+    "names": {
+      "english": "Graveler",
+      "japanese": "Goroon (ゴローン)"
+    },
+    "height": 1,
+    "weight": 105.0,
+    "generation": 1,
+    "species": "Rock Pokémon",
+    "type": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "id": "0076",
+    "names": {
+      "english": "Golem",
+      "japanese": "Goroonya (ゴローニャ)"
+    },
+    "height": 1.4,
+    "weight": 300.0,
+    "generation": 1,
+    "species": "Megaton Pokémon",
+    "type": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "id": "0077",
+    "names": {
+      "english": "Ponyta",
+      "japanese": "Ponyta (ポニータ)"
+    },
+    "height": 1.0,
+    "weight": 30.0,
+    "generation": 1,
+    "species": "Fire Horse Pokémon",
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": "0078",
+    "names": {
+      "english": "Rapidash",
+      "japanese": "Gyaroppu (ギャロップ)"
+    },
+    "height": 1.7,
+    "weight": 95.0,
+    "generation": 1,
+    "species": "Fire Horse Pokémon",
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": "0079",
+    "names": {
+      "english": "Slowpoke",
+      "japanese": "Yadon (ヤドン)"
+    },
+    "height": 1.2,
+    "weight": 36.0,
+    "generation": 1,
+    "species": "Dopey Pokémon",
+    "type": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "id": "0080",
+    "names": {
+      "english": "Slowbro",
+      "japanese": "Yadoran (ヤドラン)"
+    },
+    "height": 1.6,
+    "weight": 78.5,
+    "generation": 1,
+    "species": "Hermit Crab Pokémon",
+    "type": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "id": "0081",
+    "names": {
+      "english": "Magnemite",
+      "japanese": "Coil (コイル)"
+    },
+    "height": 0.3,
+    "weight": 6,
+    "generation": 1,
+    "species": "Magnet Pokémon",
+    "type": [
+      "Electric",
+      "Steel"
+    ]
+  },
+  {
+    "id": "0082",
+    "names": {
+      "english": "Magneton",
+      "japanese": "Rarecoil (レアコイル)"
+    },
+    "height": 1,
+    "weight": 60,
+    "generation": 1,
+    "species": "Magnet Pokémon",
+    "type": [
+      "Electric",
+      "Steel"
+    ]
+  },
+  {
+    "id": "0083",
+    "names": {
+      "english": "Farfetch'd",
+      "japanese": "Kamonegi (カモネギ)"
+    },
+    "height": 0.8,
+    "weight": 15.0,
+    "generation": 1,
+    "species": "Wild Duck Pokémon",
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": "0084",
+    "names": {
+      "english": "Doduo",
+      "japanese": "Dodo (ドードー)"
+    },
+    "height": 1.4,
+    "weight": 39.2,
+    "generation": 1,
+    "species": "Twin Bird Pokémon",
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": "0085",
+    "names": {
+      "english": "Dodrio",
+      "japanese": "Dudorio (ドードリオ)"
+    },
+    "height": 1.8,
+    "weight": 85.2,
+    "generation": 1,
+    "species": "Triple Bird Pokémon",
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": "0086",
+    "names": {
+      "english": "Seel",
+      "japanese": "Pawou (パウワウ)"
+    },
+    "height": 1.1,
+    "weight": 90.0,
+    "generation": 1,
+    "species": "Sea Lion Pokémon",
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": "0087",
+    "names": {
+      "english": "Dewgong",
+      "japanese": "Jugon (ジュゴン)"
+    },
+    "height": 1.7,
+    "weight": 120.0,
+    "generation": 1,
+    "species": "Sea Lion Pokémon",
+    "type": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "id": "0088",
+    "names": {
+      "english": "Grimer",
+      "japanese": "Betbeter (ベトベター)"
+    },
+    "height": 0.9,
+    "weight": 30.0,
+    "generation": 1,
+    "species": "Sludge Pokémon",
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": "0089",
+    "names": {
+      "english": "Muk",
+      "japanese": "Betbeton (ベトベトン)"
+    },
+    "height": 1.2,
+    "weight": 30.0,
+    "generation": 1,
+    "species": "Sludge Pokémon",
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": "0090",
+    "names": {
+      "english": "Shellder",
+      "japanese": "Shellder (シェルダー)"
+    },
+    "height": 0.3,
+    "weight": 4.0,
+    "generation": 1,
+    "species": "Bivalve Pokémon",
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": "0091",
+    "names": {
+      "english": "Cloyster",
+      "japanese": "Parshen (パルシェン)"
+    },
+    "height": 1.5,
+    "weight": 132.5,
+    "generation": 1,
+    "species": "Bivalve Pokémon",
+    "type": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "id": "0092",
+    "names": {
+      "english": "Gastly",
+      "japanese": "Ghos (ゴース)"
+    },
+    "height": 1.3,
+    "weight": 1.1,
+    "generation": 1,
+    "species": "Gas Pokémon",
+    "type": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "id": "0093",
+    "names": {
+      "english": "Haunter",
+      "japanese": "Ghosto (ゴースト)"
+    },
+    "height": 1.6,
+    "weight": 1.2,
+    "generation": 1,
+    "species": "Gas Pokémon",
+    "type": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "id": "0094",
+    "names": {
+      "english": "Gengar",
+      "japanese": "Gengar (ゲンガー)"
+    },
+    "height": 1.5,
+    "weight": 40.5,
+    "generation": 1,
+    "species": "Shadow Pokémon",
+    "type": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "id": "0095",
+    "names": {
+      "english": "Onix",
+      "japanese": "Iwark (イワーク)"
+    },
+    "height": 8.8,
+    "weight": 210.0,
+    "generation": 1,
+    "species": "Rock Snake Pokémon",
+    "type": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "id": "0096",
+    "names": {
+      "english": "Drowzee",
+      "japanese": "Sleep (スリープ)"
+    },
+    "height": 1.0,
+    "weight": 32.4,
+    "generation": 1,
+    "species": "Hypnosis Pokémon",
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": "0097",
+    "names": {
+      "english": "Hypno",
+      "japanese": "Surīpā (スリーパー)"
+    },
+    "height": 1.6,
+    "weight": 75.6,
+    "generation": 1,
+    "species": "Hypnosis Pokémon",
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": "0098",
+    "names": {
+      "english": "Krabby",
+      "japanese": "Kurabu (クラブ)"
+    },
+    "height": 0.5,
+    "weight": 6.5,
+    "generation": 1,
+    "species": "River Crab Pokémon",
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": "0099",
+    "names": {
+      "english": "Kingler",
+      "japanese": "Kingura (キングラー)"
+    },
+    "height": 1.3,
+    "weight": 60.0,
+    "generation": 1,
+    "species": "Pincer Pokémon",
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": "0100",
+    "names": {
+      "english": "Voltorb",
+      "japanese": "Biriridama (ビリリダマ)"
+    },
+    "height": 0.5,
+    "weight": 13.3,
+    "generation": 1,
+    "species": "Ball Pokémon",
+    "type": [
+      "Electric"
+    ]
   }
 ]
