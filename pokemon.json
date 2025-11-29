@@ -1,7 +1,7 @@
 [
   {
     "id": "0001",
-    "names": {
+    "name": {
       "english": "Bulbasaur",
       "japanese": "Fushigidane (フシギダネ)"
     },
@@ -16,7 +16,7 @@
   },
   {
     "id": "0002",
-    "names": {
+    "name": {
       "english": "Ivysaur",
       "japanese": "Fushigisou (フシギソウ)"
     },
@@ -31,7 +31,7 @@
   },
   {
     "id": "0003",
-    "names": {
+    "name": {
       "english": "Venusaur",
       "japanese": "Fushigibana (フシギバナ)"
     },
@@ -46,7 +46,7 @@
   },
   {
     "id": "0004",
-    "names": {
+    "name": {
       "english": "Charmander",
       "japanese": "Hitokage (ヒトカゲ)"
     },
@@ -60,7 +60,7 @@
   },
   {
     "id": "0005",
-    "names": {
+    "name": {
       "english": "Charmeleon",
       "japanese": "Lizardo (リザード)"
     },
@@ -74,7 +74,7 @@
   },
   {
     "id": "0006",
-    "names": {
+    "name": {
       "english": "Charizard",
       "japanese": "Lizardon (リザードン)"
     },
@@ -89,7 +89,7 @@
   },
   {
     "id": "0007",
-    "names": {
+    "name": {
       "english": "Squirtle",
       "japanese": "Zenigame (ゼニガメ)"
     },
@@ -103,7 +103,7 @@
   },
   {
     "id": "0008",
-    "names": {
+    "name": {
       "english": "Wartortle",
       "japanese": "Kameil (カメール)"
     },
@@ -117,7 +117,7 @@
   },
   {
     "id": "0009",
-    "names": {
+    "name": {
       "english": "Blastoise",
       "japanese": "Kamex (カメックス)"
     },
@@ -131,7 +131,7 @@
   },
   {
     "id": "0010",
-    "names": {
+    "name": {
       "english": "Caterpie",
       "japanese": "Kyatapī (キャタピー)"
     },
@@ -145,7 +145,7 @@
   },
   {
     "id": "0011",
-    "names": {
+    "name": {
       "english": "Metapod",
       "japanese": "Transel (トランセル)"
     },
@@ -159,7 +159,7 @@
   },
   {
     "id": "0012",
-    "names": {
+    "name": {
       "english": "Butterfree",
       "japanese": "Butterfree (バタフリー)"
     },
@@ -174,7 +174,7 @@
   },
   {
     "id": "0013",
-    "names": {
+    "name": {
       "english": "Weedle",
       "japanese": "Beedle (ビードル)"
     },
@@ -189,7 +189,7 @@
   },
   {
     "id": "0014",
-    "names": {
+    "name": {
       "english": "Kakuna",
       "japanese": "Cocoon (コクーン)"
     },
@@ -204,7 +204,7 @@
   },
   {
     "id": "0015",
-    "names": {
+    "name": {
       "english": "Beedrill",
       "japanese": "Spear (スピアー)"
     },
@@ -219,7 +219,7 @@
   },
   {
     "id": "0016",
-    "names": {
+    "name": {
       "english": "Pidgey",
       "japanese": "Poppo (ポッポ)"
     },
@@ -234,7 +234,7 @@
   },
   {
     "id": "0017",
-    "names": {
+    "name": {
       "english": "Pidgeotto",
       "japanese": "Pijon (ピジョン)"
     },
@@ -249,7 +249,7 @@
   },
   {
     "id": "0018",
-    "names": {
+    "name": {
       "english": "Pidgeot",
       "japanese": "Pijotto (ピジョット)"
     },
@@ -264,7 +264,7 @@
   },
   {
     "id": "0019",
-    "names": {
+    "name": {
       "english": "Rattata",
       "japanese": "Koratta (コラッタ)"
     },
@@ -278,7 +278,7 @@
   },
   {
     "id": "0020",
-    "names": {
+    "name": {
       "english": "Raticate",
       "japanese": "Ratta (ラッタ)"
     },
@@ -292,7 +292,7 @@
   },
   {
     "id": "0021",
-    "names": {
+    "name": {
       "english": "Spearow",
       "japanese": "Onisuzume (オニスズメ)"
     },
@@ -307,7 +307,7 @@
   },
   {
     "id": "0022",
-    "names": {
+    "name": {
       "english": "Fearow",
       "japanese": "Onidrill (オニドリル)"
     },
@@ -322,7 +322,7 @@
   },
   {
     "id": "0023",
-    "names": {
+    "name": {
       "english": "Ekans",
       "japanese": "Arbo (アーボ)"
     },
@@ -336,7 +336,7 @@
   },
   {
     "id": "0024",
-    "names": {
+    "name": {
       "english": "Arbok",
       "japanese": "Arbokku (アーボック)"
     },
@@ -350,7 +350,7 @@
   },
   {
     "id": "0025",
-    "names": {
+    "name": {
       "english": "Pikachu",
       "japanese": "Pikachu (ピカチュウ)"
     },
@@ -364,7 +364,7 @@
   },
   {
     "id": "0026",
-    "names": {
+    "name": {
       "english": "Raichu",
       "japanese": "Raichu (ライチュウ)"
     },
@@ -378,7 +378,7 @@
   },
   {
     "id": "0027",
-    "names": {
+    "name": {
       "english": "Sandshrew",
       "japanese": "Sando (サンド)"
     },
@@ -392,7 +392,7 @@
   },
   {
     "id": "0028",
-    "names": {
+    "name": {
       "english": "Sandslash",
       "japanese": "Sandopan (サンドパン)"
     },
@@ -406,7 +406,7 @@
   },
   {
     "id": "0029",
-    "names": {
+    "name": {
       "english": "Nidoran♀",
       "japanese": "Nidoran Mesu (ニドラン♀)"
     },
@@ -420,7 +420,7 @@
   },
   {
     "id": "0030",
-    "names": {
+    "name": {
       "english": "Nidorina",
       "japanese": "Nidorīna (ニドリーナ)"
     },
@@ -434,7 +434,7 @@
   },
   {
     "id": "0031",
-    "names": {
+    "name": {
       "english": "Nidoqueen",
       "japanese": "Nidokuin (ニドクイン)"
     },
@@ -449,7 +449,7 @@
   },
   {
     "id": "0032",
-    "names": {
+    "name": {
       "english": "Nidoran♂",
       "japanese": "Nidoran Osu (ニドラン♂)"
     },
@@ -463,7 +463,7 @@
   },
   {
     "id": "0033",
-    "names": {
+    "name": {
       "english": "Nidorino",
       "japanese": "Nidorīno (ニドリーノ)"
     },
@@ -477,7 +477,7 @@
   },
   {
     "id": "0034",
-    "names": {
+    "name": {
       "english": "Nidoking",
       "japanese": "Nidokingu (ニドキング)"
     },
@@ -492,7 +492,7 @@
   },
   {
     "id": "0035",
-    "names": {
+    "name": {
       "english": "Clefairy",
       "japanese": "Pippi (ピッピ)"
     },
@@ -506,7 +506,7 @@
   },
   {
     "id": "0036",
-    "names": {
+    "name": {
       "english": "Clefable",
       "japanese": "Pikushī (ピクシー)"
     },
@@ -520,7 +520,7 @@
   },
   {
     "id": "0037",
-    "names": {
+    "name": {
       "english": "Vulpix",
       "japanese": "Rokon (ロコン)"
     },
@@ -534,7 +534,7 @@
   },
   {
     "id": "0038",
-    "names": {
+    "name": {
       "english": "Ninetales",
       "japanese": "Kyūkon (キュウコン)"
     },
@@ -548,7 +548,7 @@
   },
   {
     "id": "0039",
-    "names": {
+    "name": {
       "english": "Jigglypuff",
       "japanese": "Purin (プリン)"
     },
@@ -563,7 +563,7 @@
   },
   {
     "id": "0040",
-    "names": {
+    "name": {
       "english": "Wigglytuff",
       "japanese": "Pukurin (プクリン)"
     },
@@ -578,7 +578,7 @@
   },
   {
     "id": "0041",
-    "names": {
+    "name": {
       "english": "Zubat",
       "japanese": "Zubatto (ズバット)"
     },
@@ -593,7 +593,7 @@
   },
   {
     "id": "0042",
-    "names": {
+    "name": {
       "english": "Golbat",
       "japanese": "Gorubatto (ゴルバット)"
     },
@@ -608,7 +608,7 @@
   },
   {
     "id": "0043",
-    "names": {
+    "name": {
       "english": "Oddish",
       "japanese": "Nazonokusa (ナゾノクサ)"
     },
@@ -623,7 +623,7 @@
   },
   {
     "id": "0044",
-    "names": {
+    "name": {
       "english": "Gloom",
       "japanese": "Kusaihana (クサイハナ)"
     },
@@ -638,7 +638,7 @@
   },
   {
     "id": "0045",
-    "names": {
+    "name": {
       "english": "Vileplume",
       "japanese": "Rafureshia (ラフレシア)"
     },
@@ -653,7 +653,7 @@
   },
   {
     "id": "0046",
-    "names": {
+    "name": {
       "english": "Paras",
       "japanese": "Parasu (パラス)"
     },
@@ -668,7 +668,7 @@
   },
   {
     "id": "0047",
-    "names": {
+    "name": {
       "english": "Parasect",
       "japanese": "Parasekuto (パラセクト)"
     },
@@ -683,7 +683,7 @@
   },
   {
     "id": "0048",
-    "names": {
+    "name": {
       "english": "Venonat",
       "japanese": "Kongpang (コンパン)"
     },
@@ -698,7 +698,7 @@
   },
   {
     "id": "0049",
-    "names": {
+    "name": {
       "english": "Venomoth",
       "japanese": "Morufon (モルフォン)"
     },
@@ -713,7 +713,7 @@
   },
   {
     "id": "0050",
-    "names": {
+    "name": {
       "english": "Diglett",
       "japanese": "Digda (ディグダ)"
     },
@@ -727,7 +727,7 @@
   },
   {
     "id": "0051",
-    "names": {
+    "name": {
       "english": "Dugtrio",
       "japanese": "Dagutorio (ダグトリオ)"
     },
@@ -741,7 +741,7 @@
   },
   {
     "id": "0052",
-    "names": {
+    "name": {
       "english": "Meowth",
       "japanese": "Nyāsu (ニャース)"
     },
@@ -755,7 +755,7 @@
   },
   {
     "id": "0053",
-    "names": {
+    "name": {
       "english": "Persian",
       "japanese": "Perushian (ペルシアン)"
     },
@@ -769,7 +769,7 @@
   },
   {
     "id": "0054",
-    "names": {
+    "name": {
       "english": "Psyduck",
       "japanese": "Kodakku (コダック)"
     },
@@ -783,7 +783,7 @@
   },
   {
     "id": "0055",
-    "names": {
+    "name": {
       "english": "Golduck",
       "japanese": "Gorudakku (ゴルダック)"
     },
@@ -797,7 +797,7 @@
   },
   {
     "id": "0056",
-    "names": {
+    "name": {
       "english": "Mankey",
       "japanese": "Mankī (マンキー)"
     },
@@ -811,7 +811,7 @@
   },
   {
     "id": "0057",
-    "names": {
+    "name": {
       "english": "Primeape",
       "japanese": "Okorizaru (オコリザル)"
     },
@@ -825,7 +825,7 @@
   },
   {
     "id": "0058",
-    "names": {
+    "name": {
       "english": "Growlithe",
       "japanese": "Gardie (ガーディ)"
     },
@@ -839,7 +839,7 @@
   },
   {
     "id": "0059",
-    "names": {
+    "name": {
       "english": "Arcanine",
       "japanese": "Windie (ウインディ)"
     },
@@ -853,7 +853,7 @@
   },
   {
     "id": "0060",
-    "names": {
+    "name": {
       "english": "Poliwag",
       "japanese": "Nyoromo (ニョロモ)"
     },
@@ -867,7 +867,7 @@
   },
   {
     "id": "0061",
-    "names": {
+    "name": {
       "english": "Poliwhirl",
       "japanese": "Nyorozo (ニョロゾ)"
     },
@@ -881,7 +881,7 @@
   },
   {
     "id": "0062",
-    "names": {
+    "name": {
       "english": "Poliwrath",
       "japanese": "Nyorobon (ニョロボン)"
     },
@@ -896,7 +896,7 @@
   },
   {
     "id": "0063",
-    "names": {
+    "name": {
       "english": "Abra",
       "japanese": "Casey (ケーシィ)"
     },
@@ -910,7 +910,7 @@
   },
   {
     "id": "0064",
-    "names": {
+    "name": {
       "english": "Kadabra",
       "japanese": "Yungerā (ユンゲラー)"
     },
@@ -924,7 +924,7 @@
   },
   {
     "id": "0065",
-    "names": {
+    "name": {
       "english": "Alakazam",
       "japanese": "Foodin (フーディン)"
     },
@@ -938,7 +938,7 @@
   },
   {
     "id": "0066",
-    "names": {
+    "name": {
       "english": "Machop",
       "japanese": "Wanrikī (ワンリキー)"
     },
@@ -952,7 +952,7 @@
   },
   {
     "id": "0067",
-    "names": {
+    "name": {
       "english": "Machoke",
       "japanese": "Gorikī (ゴーリキー)"
     },
@@ -966,7 +966,7 @@
   },
   {
     "id": "0068",
-    "names": {
+    "name": {
       "english": "Machamp",
       "japanese": "Kairikī (カイリキー)"
     },
@@ -980,7 +980,7 @@
   },
   {
     "id": "0069",
-    "names": {
+    "name": {
       "english": "Bellsprout",
       "japanese": "Madatsubomi (マダツボミ)"
     },
@@ -995,7 +995,7 @@
   },
   {
     "id": "0070",
-    "names": {
+    "name": {
       "english": "Weepinbell",
       "japanese": "Utsudon (ウツドン)"
     },
@@ -1010,7 +1010,7 @@
   },
   {
     "id": "0071",
-    "names": {
+    "name": {
       "english": "Victreebel",
       "japanese": "Utsubot (ウツボット)"
     },
@@ -1025,7 +1025,7 @@
   },
   {
     "id": "0072",
-    "names": {
+    "name": {
       "english": "Tentacool",
       "japanese": "Menokurage (メノクラゲ)"
     },
@@ -1040,7 +1040,7 @@
   },
   {
     "id": "0073",
-    "names": {
+    "name": {
       "english": "Tentacruel",
       "japanese": "Dokukurage (ドククラゲ)"
     },
@@ -1055,7 +1055,7 @@
   },
   {
     "id": "0074",
-    "names": {
+    "name": {
       "english": "Geodude",
       "japanese": "Ishitsubute (イシツブテ)"
     },
@@ -1070,7 +1070,7 @@
   },
   {
     "id": "0075",
-    "names": {
+    "name": {
       "english": "Graveler",
       "japanese": "Goroon (ゴローン)"
     },
@@ -1085,7 +1085,7 @@
   },
   {
     "id": "0076",
-    "names": {
+    "name": {
       "english": "Golem",
       "japanese": "Goroonya (ゴローニャ)"
     },
@@ -1100,7 +1100,7 @@
   },
   {
     "id": "0077",
-    "names": {
+    "name": {
       "english": "Ponyta",
       "japanese": "Ponyta (ポニータ)"
     },
@@ -1114,7 +1114,7 @@
   },
   {
     "id": "0078",
-    "names": {
+    "name": {
       "english": "Rapidash",
       "japanese": "Gyaroppu (ギャロップ)"
     },
@@ -1128,7 +1128,7 @@
   },
   {
     "id": "0079",
-    "names": {
+    "name": {
       "english": "Slowpoke",
       "japanese": "Yadon (ヤドン)"
     },
@@ -1143,7 +1143,7 @@
   },
   {
     "id": "0080",
-    "names": {
+    "name": {
       "english": "Slowbro",
       "japanese": "Yadoran (ヤドラン)"
     },
@@ -1158,7 +1158,7 @@
   },
   {
     "id": "0081",
-    "names": {
+    "name": {
       "english": "Magnemite",
       "japanese": "Coil (コイル)"
     },
@@ -1173,7 +1173,7 @@
   },
   {
     "id": "0082",
-    "names": {
+    "name": {
       "english": "Magneton",
       "japanese": "Rarecoil (レアコイル)"
     },
@@ -1188,7 +1188,7 @@
   },
   {
     "id": "0083",
-    "names": {
+    "name": {
       "english": "Farfetch'd",
       "japanese": "Kamonegi (カモネギ)"
     },
@@ -1203,7 +1203,7 @@
   },
   {
     "id": "0084",
-    "names": {
+    "name": {
       "english": "Doduo",
       "japanese": "Dodo (ドードー)"
     },
@@ -1218,7 +1218,7 @@
   },
   {
     "id": "0085",
-    "names": {
+    "name": {
       "english": "Dodrio",
       "japanese": "Dudorio (ドードリオ)"
     },
@@ -1233,7 +1233,7 @@
   },
   {
     "id": "0086",
-    "names": {
+    "name": {
       "english": "Seel",
       "japanese": "Pawou (パウワウ)"
     },
@@ -1247,7 +1247,7 @@
   },
   {
     "id": "0087",
-    "names": {
+    "name": {
       "english": "Dewgong",
       "japanese": "Jugon (ジュゴン)"
     },
@@ -1262,7 +1262,7 @@
   },
   {
     "id": "0088",
-    "names": {
+    "name": {
       "english": "Grimer",
       "japanese": "Betbeter (ベトベター)"
     },
@@ -1276,7 +1276,7 @@
   },
   {
     "id": "0089",
-    "names": {
+    "name": {
       "english": "Muk",
       "japanese": "Betbeton (ベトベトン)"
     },
@@ -1290,7 +1290,7 @@
   },
   {
     "id": "0090",
-    "names": {
+    "name": {
       "english": "Shellder",
       "japanese": "Shellder (シェルダー)"
     },
@@ -1304,7 +1304,7 @@
   },
   {
     "id": "0091",
-    "names": {
+    "name": {
       "english": "Cloyster",
       "japanese": "Parshen (パルシェン)"
     },
@@ -1319,7 +1319,7 @@
   },
   {
     "id": "0092",
-    "names": {
+    "name": {
       "english": "Gastly",
       "japanese": "Ghos (ゴース)"
     },
@@ -1334,7 +1334,7 @@
   },
   {
     "id": "0093",
-    "names": {
+    "name": {
       "english": "Haunter",
       "japanese": "Ghosto (ゴースト)"
     },
@@ -1349,7 +1349,7 @@
   },
   {
     "id": "0094",
-    "names": {
+    "name": {
       "english": "Gengar",
       "japanese": "Gengar (ゲンガー)"
     },
@@ -1364,7 +1364,7 @@
   },
   {
     "id": "0095",
-    "names": {
+    "name": {
       "english": "Onix",
       "japanese": "Iwark (イワーク)"
     },
@@ -1379,7 +1379,7 @@
   },
   {
     "id": "0096",
-    "names": {
+    "name": {
       "english": "Drowzee",
       "japanese": "Sleep (スリープ)"
     },
@@ -1393,7 +1393,7 @@
   },
   {
     "id": "0097",
-    "names": {
+    "name": {
       "english": "Hypno",
       "japanese": "Surīpā (スリーパー)"
     },
@@ -1407,7 +1407,7 @@
   },
   {
     "id": "0098",
-    "names": {
+    "name": {
       "english": "Krabby",
       "japanese": "Kurabu (クラブ)"
     },
@@ -1421,7 +1421,7 @@
   },
   {
     "id": "0099",
-    "names": {
+    "name": {
       "english": "Kingler",
       "japanese": "Kingura (キングラー)"
     },
@@ -1435,7 +1435,7 @@
   },
   {
     "id": "0100",
-    "names": {
+    "name": {
       "english": "Voltorb",
       "japanese": "Biriridama (ビリリダマ)"
     },
@@ -1449,7 +1449,7 @@
   },
   {
     "id": "0101",
-    "names": {
+    "name": {
       "english": "Electrode",
       "japanese": "Marumine (マルマイン)"
     },
@@ -1463,7 +1463,7 @@
   },
   {
     "id": "0102",
-    "names": {
+    "name": {
       "english": "Exeggcute",
       "japanese": "Tamatama (タマタマ)"
     },
@@ -1478,7 +1478,7 @@
   },
   {
     "id": "0103",
-    "names": {
+    "name": {
       "english": "Exeggutor",
       "japanese": "Nasshī (ナッシー)"
     },
@@ -1493,7 +1493,7 @@
   },
   {
     "id": "0104",
-    "names": {
+    "name": {
       "english": "Cubone",
       "japanese": "Karakara (カラカラ)"
     },
@@ -1507,7 +1507,7 @@
   },
   {
     "id": "0105",
-    "names": {
+    "name": {
       "english": "Marowak",
       "japanese": "Garagara (ガラガラ)"
     },
@@ -1521,7 +1521,7 @@
   },
   {
     "id": "0106",
-    "names": {
+    "name": {
       "english": "Hitmonlee",
       "japanese": "Sawamular (サワムラー)"
     },
@@ -1535,7 +1535,7 @@
   },
   {
     "id": "0107",
-    "names": {
+    "name": {
       "english": "Hitmonchan",
       "japanese": "Sawamular (サワムラー)"
     },
@@ -1549,7 +1549,7 @@
   },
   {
     "id": "0108",
-    "names": {
+    "name": {
       "english": "Lickitung",
       "japanese": "Beroringa (ベロリンガ)"
     },
@@ -1563,7 +1563,7 @@
   },
   {
     "id": "0109",
-    "names": {
+    "name": {
       "english": "Koffing",
       "japanese": "Dogāsu (ドガース)"
     },
@@ -1577,7 +1577,7 @@
   },
   {
     "id": "0110",
-    "names": {
+    "name": {
       "english": "Weezing",
       "japanese": "Matadogāsu (マタドガス)"
     },
@@ -1591,7 +1591,7 @@
   },
   {
     "id": "0111",
-    "names": {
+    "name": {
       "english": "Rhyhorn",
       "japanese": "Saihōn (サイホーン)"
     },
@@ -1606,7 +1606,7 @@
   },
   {
     "id": "0112",
-    "names": {
+    "name": {
       "english": "Rhydon",
       "japanese": "Saidon (サイドン)"
     },
@@ -1621,7 +1621,7 @@
   },
   {
     "id": "0113",
-    "names": {
+    "name": {
       "english": "Chansey",
       "japanese": "Rakkī (ラッキー)"
     },
@@ -1635,7 +1635,7 @@
   },
   {
     "id": "0114",
-    "names": {
+    "name": {
       "english": "Tangela",
       "japanese": "Monjara (モンジャラ)"
     },
@@ -1649,7 +1649,7 @@
   },
   {
     "id": "0115",
-    "names": {
+    "name": {
       "english": "Kangaskhan",
       "japanese": "Garūra (ガルーラ)"
     },
@@ -1663,7 +1663,7 @@
   },
   {
     "id": "0116",
-    "names": {
+    "name": {
       "english": "Horsea",
       "japanese": "Horsea (カイリュー)"
     },
@@ -1677,7 +1677,7 @@
   },
   {
     "id": "0117",
-    "names": {
+    "name": {
       "english": "Seadra",
       "japanese": "Shīdora (シードラ)"
     },
@@ -1691,7 +1691,7 @@
   },
   {
     "id": "0118",
-    "names": {
+    "name": {
       "english": "Goldeen",
       "japanese": "Tosakinto (トサキント)"
     },
@@ -1705,7 +1705,7 @@
   },
   {
     "id": "0119",
-    "names": {
+    "name": {
       "english": "Seaking",
       "japanese": "Azumaō (アズマオウ)"
     },
@@ -1719,7 +1719,7 @@
   },
   {
     "id": "0120",
-    "names": {
+    "name": {
       "english": "Staryu",
       "japanese": "Hitodeman (ヒトデマン)"
     },
@@ -1733,7 +1733,7 @@
   },
   {
     "id": "0121",
-    "names": {
+    "name": {
       "english": "Starmie",
       "japanese": "Sutāmī (スターミー)"
     },
@@ -1748,7 +1748,7 @@
   },
   {
     "id": "0122",
-    "names": {
+    "name": {
       "english": "Mr. Mime",
       "japanese": "Bariyādo (バリヤード)"
     },
@@ -1763,7 +1763,7 @@
   },
   {
     "id": "0123",
-    "names": {
+    "name": {
       "english": "Scyther",
       "japanese": "Sutoraiku (ストライク)"
     },
@@ -1778,7 +1778,7 @@
   },
   {
     "id": "0124",
-    "names": {
+    "name": {
       "english": "Jynx",
       "japanese": "Rūjura (ルージュラ)"
     },
@@ -1793,7 +1793,7 @@
   },
   {
     "id": "0125",
-    "names": {
+    "name": {
       "english": "Electabuzz",
       "japanese": "Erebū (エレブー)"
     },
@@ -1807,7 +1807,7 @@
   },
   {
     "id": "0126",
-    "names": {
+    "name": {
       "english": "Magmar",
       "japanese": "Būbā (ブーバー)"
     },
@@ -1821,7 +1821,7 @@
   },
   {
     "id": "0127",
-    "names": {
+    "name": {
       "english": "Pinsir",
       "japanese": "Kairosu (カイロス)"
     },
@@ -1835,7 +1835,7 @@
   },
   {
     "id": "0128",
-    "names": {
+    "name": {
       "english": "Tauros",
       "japanese": "Kentarosu (ケンタロス)"
     },
@@ -1849,7 +1849,7 @@
   },
   {
     "id": "0129",
-    "names": {
+    "name": {
       "english": "Magikarp",
       "japanese": "Koiking (コイキング)"
     },
@@ -1863,7 +1863,7 @@
   },
   {
     "id": "0130",
-    "names": {
+    "name": {
       "english": "Gyarados",
       "japanese": "Gyaradosu (ガヤラドス)"
     },
@@ -1878,7 +1878,7 @@
   },
   {
     "id": "0131",
-    "names": {
+    "name": {
       "english": "Lapras",
       "japanese": "Rapurasu (ラプラス)"
     },
@@ -1893,7 +1893,7 @@
   },
   {
     "id": "0132",
-    "names": {
+    "name": {
       "english": "Ditto",
       "japanese": "Metamon (メタモン)"
     },
@@ -1907,7 +1907,7 @@
   },
   {
     "id": "0133",
-    "names": {
+    "name": {
       "english": "Eevee",
       "japanese": "Ībui (イーブイ)"
     },
@@ -1921,7 +1921,7 @@
   },
   {
     "id": "0134",
-    "names": {
+    "name": {
       "english": "Vaporeon",
       "japanese": "Shawāzu (シャワーズ)"
     },
@@ -1935,7 +1935,7 @@
   },
   {
     "id": "0135",
-    "names": {
+    "name": {
       "english": "Jolteon",
       "japanese": "Sandāsu (サンダース)"
     },
@@ -1949,7 +1949,7 @@
   },
   {
     "id": "0136",
-    "names": {
+    "name": {
       "english": "Flareon",
       "japanese": "Būsutā (ブースター)"
     },
@@ -1963,7 +1963,7 @@
   },
   {
     "id": "0137",
-    "names": {
+    "name": {
       "english": "Porygon",
       "japanese": "Porigon (ポリゴン)"
     },
@@ -1977,7 +1977,7 @@
   },
   {
     "id": "0138",
-    "names": {
+    "name": {
       "english": "Omanyte",
       "japanese": "Omunaito (オムナイト)"
     },
@@ -1992,7 +1992,7 @@
   },
   {
     "id": "0139",
-    "names": {
+    "name": {
       "english": "Omastar",
       "japanese": "Omusutā (オムスター)"
     },
@@ -2007,7 +2007,7 @@
   },
   {
     "id": "0140",
-    "names": {
+    "name": {
       "english": "Kabuto",
       "japanese": "Kabuto (カブト)"
     },
@@ -2022,7 +2022,7 @@
   },
   {
     "id": "0141",
-    "names": {
+    "name": {
       "english": "Kabutops",
       "japanese": "Kabutopusu (カブトプス)"
     },
@@ -2037,7 +2037,7 @@
   },
   {
     "id": "0142",
-    "names": {
+    "name": {
       "english": "Aerodactyl",
       "japanese": "Putera (プテラ)"
     },
@@ -2052,7 +2052,7 @@
   },
   {
     "id": "0143",
-    "names": {
+    "name": {
       "english": "Snorlax",
       "japanese": "Kabigon (カビゴン)"
     },
@@ -2066,7 +2066,7 @@
   },
   {
     "id": "0144",
-    "names": {
+    "name": {
       "english": "Articuno",
       "japanese": "Furīzā (フリーザー)"
     },
@@ -2081,7 +2081,7 @@
   },
   {
     "id": "0145",
-    "names": {
+    "name": {
       "english": "Zapdos",
       "japanese": "Sandā (サンダー)"
     },
@@ -2096,7 +2096,7 @@
   },
   {
     "id": "0146",
-    "names": {
+    "name": {
       "english": "Moltres",
       "japanese": "Faiyā (ファイヤー)"
     },
@@ -2111,7 +2111,7 @@
   },
   {
     "id": "0147",
-    "names": {
+    "name": {
       "english": "Dratini",
       "japanese": "Miniryū (ミニリュウ)"
     },
@@ -2125,7 +2125,7 @@
   },
   {
     "id": "0148",
-    "names": {
+    "name": {
       "english": "Dragonair",
       "japanese": "Hakuryū (ハクリュー)"
     },
@@ -2139,7 +2139,7 @@
   },
   {
     "id": "0149",
-    "names": {
+    "name": {
       "english": "Dragonite",
       "japanese": "Kairyū (カイリュー)"
     },
@@ -2154,7 +2154,7 @@
   },
   {
     "id": "0150",
-    "names": {
+    "name": {
       "english": "Mewtwo",
       "japanese": "Myūtsū (ミュウツー)"
     },
@@ -2168,7 +2168,7 @@
   },
   {
     "id": "0151",
-    "names": {
+    "name": {
       "english": "Mew",
       "japanese": "Myū (ミュウ)"
     },
